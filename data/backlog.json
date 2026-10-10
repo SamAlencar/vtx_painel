@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T13:59:57+00:00",
+  "gerado_em": "2026-10-10T14:05:17+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -126,11 +126,67 @@
         "status": "a fazer"
       },
       {
+        "id": "VTX-066",
+        "titulo": "Guia de classificação e triagem de projetos (inclui híbridos)",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 11,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-067",
+        "titulo": "Fluxo de projeto: sistema web / plataforma SaaS",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 12,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-068",
+        "titulo": "Fluxo de projeto: app mobile",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 13,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-069",
+        "titulo": "Fluxo de projeto: API e integrações",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 14,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-070",
+        "titulo": "Fluxo de projeto: site / landing page",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 15,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-071",
+        "titulo": "Fluxo de projeto: manutenção e evolução de sistema existente",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 16,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-072",
+        "titulo": "Fluxo de projeto: MVP / prova de conceito",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 17,
+        "status": "a fazer"
+      },
+      {
         "id": "VTX-011",
         "titulo": "Engenharia de requisitos",
         "fase": "F1",
         "area": "Base de Conhecimento",
-        "prioridade": 11,
+        "prioridade": 18,
         "status": "a fazer"
       },
       {
@@ -138,7 +194,7 @@
         "titulo": "Scrum e Kanban adaptados a agentes",
         "fase": "F1",
         "area": "Base de Conhecimento",
-        "prioridade": 12,
+        "prioridade": 19,
         "status": "a fazer"
       },
       {
@@ -146,7 +202,7 @@
         "titulo": "Operação de agentes: prompts, contexto e memória",
         "fase": "F1",
         "area": "Base de Conhecimento",
-        "prioridade": 13,
+        "prioridade": 20,
         "status": "a fazer"
       },
       {
@@ -154,7 +210,7 @@
         "titulo": "Governança e aprovações (humano no circuito)",
         "fase": "F1",
         "area": "Base de Conhecimento",
-        "prioridade": 14,
+        "prioridade": 21,
         "status": "a fazer"
       },
       {
@@ -162,7 +218,7 @@
         "titulo": "Arquitetura de software (estilos, C4, ADRs)",
         "fase": "F2",
         "area": "Base de Conhecimento",
-        "prioridade": 15,
+        "prioridade": 22,
         "status": "a fazer"
       },
       {
@@ -170,7 +226,7 @@
         "titulo": "Padrões de projeto e DDD",
         "fase": "F2",
         "area": "Base de Conhecimento",
-        "prioridade": 16,
+        "prioridade": 23,
         "status": "a fazer"
       },
       {
@@ -178,7 +234,7 @@
         "titulo": "Padrões de código, Clean Code e code review",
         "fase": "F2",
         "area": "Base de Conhecimento",
-        "prioridade": 17,
+        "prioridade": 24,
         "status": "a fazer"
       },
       {
@@ -186,7 +242,7 @@
         "titulo": "Estratégia de testes e qualidade",
         "fase": "F2",
         "area": "Base de Conhecimento",
-        "prioridade": 18,
+        "prioridade": 25,
         "status": "a fazer"
       },
       {
@@ -194,7 +250,7 @@
         "titulo": "Git e CI/CD",
         "fase": "F2",
         "area": "Base de Conhecimento",
-        "prioridade": 19,
+        "prioridade": 26,
         "status": "a fazer"
       },
       {
@@ -202,7 +258,7 @@
         "titulo": "Segurança no desenvolvimento (OWASP, SSDF)",
         "fase": "F3",
         "area": "Base de Conhecimento",
-        "prioridade": 20,
+        "prioridade": 27,
         "status": "a fazer"
       },
       {
@@ -210,7 +266,7 @@
         "titulo": "DevOps e SRE (IaC, SLOs, incidentes)",
         "fase": "F3",
         "area": "Base de Conhecimento",
-        "prioridade": 21,
+        "prioridade": 28,
         "status": "a fazer"
       },
       {
@@ -218,7 +274,7 @@
         "titulo": "Observabilidade (logs, métricas, traces)",
         "fase": "F3",
         "area": "Base de Conhecimento",
-        "prioridade": 22,
+        "prioridade": 29,
         "status": "a fazer"
       },
       {
@@ -226,7 +282,7 @@
         "titulo": "Stack de referência da VTX",
         "fase": "F4",
         "area": "Base de Conhecimento",
-        "prioridade": 23,
+        "prioridade": 30,
         "status": "a fazer"
       },
       {
@@ -234,7 +290,7 @@
         "titulo": "Design de APIs",
         "fase": "F4",
         "area": "Base de Conhecimento",
-        "prioridade": 24,
+        "prioridade": 31,
         "status": "a fazer"
       },
       {
@@ -242,7 +298,7 @@
         "titulo": "Modelagem de dados e bancos de dados",
         "fase": "F4",
         "area": "Base de Conhecimento",
-        "prioridade": 25,
+        "prioridade": 32,
         "status": "a fazer"
       },
       {
@@ -250,7 +306,7 @@
         "titulo": "Desenvolvimento frontend web",
         "fase": "F4",
         "area": "Base de Conhecimento",
-        "prioridade": 26,
+        "prioridade": 33,
         "status": "a fazer"
       },
       {
@@ -258,7 +314,7 @@
         "titulo": "Desenvolvimento mobile",
         "fase": "F4",
         "area": "Base de Conhecimento",
-        "prioridade": 27,
+        "prioridade": 34,
         "status": "a fazer"
       },
       {
@@ -266,7 +322,7 @@
         "titulo": "UX/UI e acessibilidade",
         "fase": "F4",
         "area": "Base de Conhecimento",
-        "prioridade": 28,
+        "prioridade": 35,
         "status": "a fazer"
       },
       {
@@ -274,7 +330,7 @@
         "titulo": "Gestão de projetos, riscos e comunicação com cliente",
         "fase": "F5",
         "area": "Base de Conhecimento",
-        "prioridade": 29,
+        "prioridade": 36,
         "status": "a fazer"
       },
       {
@@ -282,7 +338,7 @@
         "titulo": "Estimativas e planejamento",
         "fase": "F5",
         "area": "Base de Conhecimento",
-        "prioridade": 30,
+        "prioridade": 37,
         "status": "a fazer"
       },
       {
@@ -290,7 +346,7 @@
         "titulo": "LGPD e compliance",
         "fase": "F5",
         "area": "Base de Conhecimento",
-        "prioridade": 31,
+        "prioridade": 38,
         "status": "a fazer"
       },
       {
@@ -298,7 +354,7 @@
         "titulo": "Documentação técnica (docs-as-code)",
         "fase": "F5",
         "area": "Base de Conhecimento",
-        "prioridade": 32,
+        "prioridade": 39,
         "status": "a fazer"
       },
       {
@@ -306,7 +362,7 @@
         "titulo": "Template de PRD",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 33,
+        "prioridade": 40,
         "status": "a fazer"
       },
       {
@@ -314,7 +370,7 @@
         "titulo": "Template de história de usuário e critérios de aceite",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 34,
+        "prioridade": 41,
         "status": "a fazer"
       },
       {
@@ -322,7 +378,7 @@
         "titulo": "Template de ADR",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 35,
+        "prioridade": 42,
         "status": "a fazer"
       },
       {
@@ -330,7 +386,7 @@
         "titulo": "Template de plano e relatório de testes",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 36,
+        "prioridade": 43,
         "status": "a fazer"
       },
       {
@@ -338,7 +394,7 @@
         "titulo": "Template de runbook e postmortem",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 37,
+        "prioridade": 44,
         "status": "a fazer"
       },
       {
@@ -346,7 +402,7 @@
         "titulo": "Template de relatório diário e de sprint",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 38,
+        "prioridade": 45,
         "status": "a fazer"
       },
       {
@@ -354,7 +410,7 @@
         "titulo": "Diretrizes do agente Orquestrador",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 39,
+        "prioridade": 46,
         "status": "a fazer"
       },
       {
@@ -362,7 +418,7 @@
         "titulo": "Diretrizes do agente Produto",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 40,
+        "prioridade": 47,
         "status": "a fazer"
       },
       {
@@ -370,7 +426,7 @@
         "titulo": "Diretrizes do agente Arquiteto",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 41,
+        "prioridade": 48,
         "status": "a fazer"
       },
       {
@@ -378,7 +434,7 @@
         "titulo": "Diretrizes do agente Dev Backend",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 42,
+        "prioridade": 49,
         "status": "a fazer"
       },
       {
@@ -386,7 +442,7 @@
         "titulo": "Diretrizes do agente Dev Frontend/Mobile",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 43,
+        "prioridade": 50,
         "status": "a fazer"
       },
       {
@@ -394,7 +450,7 @@
         "titulo": "Diretrizes do agente QA",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 44,
+        "prioridade": 51,
         "status": "a fazer"
       },
       {
@@ -402,7 +458,7 @@
         "titulo": "Diretrizes do agente DevOps/SRE",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 45,
+        "prioridade": 52,
         "status": "a fazer"
       },
       {
@@ -410,7 +466,7 @@
         "titulo": "Diretrizes dos especialistas sob demanda",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 46,
+        "prioridade": 53,
         "status": "a fazer"
       },
       {
@@ -418,7 +474,7 @@
         "titulo": "AGENTS.md raiz com diretrizes gerais dos agentes",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 47,
+        "prioridade": 54,
         "status": "a fazer"
       },
       {
@@ -426,7 +482,7 @@
         "titulo": "Regra sempre ativa: fluxo entre papéis, DoD e aprovações",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 48,
+        "prioridade": 55,
         "status": "a fazer"
       },
       {
@@ -434,7 +490,7 @@
         "titulo": "Regras por papel: Orquestrador, Produto e Arquiteto",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 49,
+        "prioridade": 56,
         "status": "a fazer"
       },
       {
@@ -442,7 +498,7 @@
         "titulo": "Regras por papel: Devs, QA e DevOps/SRE",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 50,
+        "prioridade": 57,
         "status": "a fazer"
       },
       {
@@ -450,7 +506,7 @@
         "titulo": "Regras por assunto com globs: testes e APIs",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 51,
+        "prioridade": 58,
         "status": "a fazer"
       },
       {
@@ -458,7 +514,7 @@
         "titulo": "Regras por assunto com globs: frontend/mobile e segurança",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 52,
+        "prioridade": 59,
         "status": "a fazer"
       },
       {
@@ -466,7 +522,7 @@
         "titulo": "Estratégia de consulta sob demanda e índice para agentes",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 53,
+        "prioridade": 60,
         "status": "a fazer"
       },
       {
@@ -474,7 +530,7 @@
         "titulo": "Template de repositório de projeto",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 54,
+        "prioridade": 61,
         "status": "a fazer"
       },
       {
@@ -482,7 +538,7 @@
         "titulo": "Sincronização de regras e script de bootstrap de projetos",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 55,
+        "prioridade": 62,
         "status": "a fazer"
       },
       {
@@ -490,15 +546,15 @@
         "titulo": "Ambiente dos agentes de nuvem (environment.json, segredos, permissões)",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 56,
+        "prioridade": 63,
         "status": "a fazer"
       },
       {
         "id": "VTX-063",
-        "titulo": "Orquestração com issues, PRs e agentes de nuvem por papel",
+        "titulo": "Orquestração com issues, PRs e agentes de nuvem por papel e tipo de projeto",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 57,
+        "prioridade": 64,
         "status": "a fazer"
       },
       {
@@ -506,7 +562,7 @@
         "titulo": "Pontos de aprovação do Samuel (branch protegida, revisões, release)",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 58,
+        "prioridade": 65,
         "status": "a fazer"
       },
       {
@@ -514,7 +570,7 @@
         "titulo": "Teste de validação da integração com o Cursor",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 59,
+        "prioridade": 66,
         "status": "a fazer"
       },
       {
@@ -522,7 +578,7 @@
         "titulo": "Glossário técnico",
         "fase": "F8",
         "area": "Base de Conhecimento",
-        "prioridade": 60,
+        "prioridade": 67,
         "status": "a fazer"
       },
       {
@@ -530,7 +586,7 @@
         "titulo": "Revisão geral da base (consistência, links, fontes)",
         "fase": "F8",
         "area": "Qualidade",
-        "prioridade": 61,
+        "prioridade": 68,
         "status": "a fazer"
       },
       {
@@ -538,15 +594,15 @@
         "titulo": "Índice final e guia de navegação para agentes",
         "fase": "F8",
         "area": "Base de Conhecimento",
-        "prioridade": 62,
+        "prioridade": 69,
         "status": "a fazer"
       },
       {
         "id": "VTX-050",
-        "titulo": "Projeto piloto: definição e PRD",
+        "titulo": "Projeto piloto: definição, triagem do tipo e PRD",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 63,
+        "prioridade": 70,
         "status": "a fazer"
       },
       {
@@ -554,7 +610,7 @@
         "titulo": "Projeto piloto: execução do fluxo completo",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 64,
+        "prioridade": 71,
         "status": "a fazer"
       },
       {
@@ -562,7 +618,7 @@
         "titulo": "Projeto piloto: retrospectiva e ajustes na base",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 65,
+        "prioridade": 72,
         "status": "a fazer"
       }
     ]

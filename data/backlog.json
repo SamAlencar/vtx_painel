@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T12:58:28+00:00",
+  "gerado_em": "2026-10-10T13:59:57+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -34,6 +34,10 @@
       {
         "id": "F7",
         "nome": "Diretrizes por papel"
+      },
+      {
+        "id": "F9",
+        "nome": "Integração com o Cursor e operação"
       },
       {
         "id": "F8",
@@ -410,11 +414,115 @@
         "status": "a fazer"
       },
       {
+        "id": "VTX-053",
+        "titulo": "AGENTS.md raiz com diretrizes gerais dos agentes",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 47,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-054",
+        "titulo": "Regra sempre ativa: fluxo entre papéis, DoD e aprovações",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 48,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-055",
+        "titulo": "Regras por papel: Orquestrador, Produto e Arquiteto",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 49,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-056",
+        "titulo": "Regras por papel: Devs, QA e DevOps/SRE",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 50,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-057",
+        "titulo": "Regras por assunto com globs: testes e APIs",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 51,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-058",
+        "titulo": "Regras por assunto com globs: frontend/mobile e segurança",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 52,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-059",
+        "titulo": "Estratégia de consulta sob demanda e índice para agentes",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 53,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-060",
+        "titulo": "Template de repositório de projeto",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 54,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-061",
+        "titulo": "Sincronização de regras e script de bootstrap de projetos",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 55,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-062",
+        "titulo": "Ambiente dos agentes de nuvem (environment.json, segredos, permissões)",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 56,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-063",
+        "titulo": "Orquestração com issues, PRs e agentes de nuvem por papel",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 57,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-064",
+        "titulo": "Pontos de aprovação do Samuel (branch protegida, revisões, release)",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 58,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-065",
+        "titulo": "Teste de validação da integração com o Cursor",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 59,
+        "status": "a fazer"
+      },
+      {
         "id": "VTX-047",
         "titulo": "Glossário técnico",
         "fase": "F8",
         "area": "Base de Conhecimento",
-        "prioridade": 47,
+        "prioridade": 60,
         "status": "a fazer"
       },
       {
@@ -422,7 +530,7 @@
         "titulo": "Revisão geral da base (consistência, links, fontes)",
         "fase": "F8",
         "area": "Qualidade",
-        "prioridade": 48,
+        "prioridade": 61,
         "status": "a fazer"
       },
       {
@@ -430,7 +538,7 @@
         "titulo": "Índice final e guia de navegação para agentes",
         "fase": "F8",
         "area": "Base de Conhecimento",
-        "prioridade": 49,
+        "prioridade": 62,
         "status": "a fazer"
       },
       {
@@ -438,7 +546,7 @@
         "titulo": "Projeto piloto: definição e PRD",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 50,
+        "prioridade": 63,
         "status": "a fazer"
       },
       {
@@ -446,7 +554,7 @@
         "titulo": "Projeto piloto: execução do fluxo completo",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 51,
+        "prioridade": 64,
         "status": "a fazer"
       },
       {
@@ -454,7 +562,7 @@
         "titulo": "Projeto piloto: retrospectiva e ajustes na base",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 52,
+        "prioridade": 65,
         "status": "a fazer"
       }
     ]

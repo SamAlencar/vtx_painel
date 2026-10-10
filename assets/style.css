@@ -17,3 +17,14 @@ select{background:var(--card);color:var(--txt);border:1px solid #334155;border-r
 .st-concluido{background:#14532d;color:#86efac}.st-andamento{background:#78350f;color:#fcd34d}.st-fazer{background:#334155;color:#cbd5e1}
 .rodape{color:var(--mut);font-size:12px;margin:32px 0}
 @media(max-width:640px){.cards{grid-template-columns:repeat(2,1fr)}.tarefa{flex-wrap:wrap}}
+
+.proj{color:var(--acc);margin:8px 0 0;font-weight:600}
+.sec{font-size:18px;margin:32px 0 12px}
+.prox{background:var(--card);border-left:4px solid var(--acc);border-radius:10px;padding:14px 16px;margin-top:20px}
+.prox small{color:var(--mut);display:block;margin-bottom:4px}
+.fase{margin-bottom:12px}.fase .cab{display:flex;justify-content:space-between;font-size:14px;margin-bottom:4px}
+.fase .cab span{color:var(--mut)}.fase .progress{height:8px}
+.fase .progress div{height:100%;background:linear-gradient(90deg,var(--acc),var(--ok))}
+details{background:var(--card);border-radius:10px;margin-bottom:8px;padding:10px 14px}
+summary{cursor:pointer;font-weight:600}summary span{color:var(--mut);font-weight:400;font-size:13px;margin-left:8px}
+details .tarefa{background:#0f172a;margin:8px 0 0}

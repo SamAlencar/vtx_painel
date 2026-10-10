@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T12:50:19+00:00",
+  "gerado_em": "2026-10-10T12:53:00+00:00",
   "dias": [
     {
       "data": "2026-10-10",
@@ -26,7 +26,7 @@
           "id": "VTX-004",
           "titulo": "Automatizar publicação do backlog no painel",
           "area": "DevOps",
-          "status": "em andamento"
+          "status": "concluído"
         },
         {
           "id": "VTX-005",
@@ -50,6 +50,18 @@
           "id": "VTX-008",
           "titulo": "Aprovar proposta de papéis de agentes",
           "area": "Organização",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-009",
+          "titulo": "Definir agentes do núcleo da empresa",
+          "area": "Organização",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-010",
+          "titulo": "Pesquisar fluxo de trabalho entre agentes",
+          "area": "Base de Conhecimento",
           "status": "a fazer"
         }
       ]

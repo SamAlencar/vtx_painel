@@ -1,0 +1,58 @@
+{
+  "gerado_em": "2026-10-10T12:36:01+00:00",
+  "dias": [
+    {
+      "data": "2026-10-10",
+      "tarefas": [
+        {
+          "id": "VTX-001",
+          "titulo": "Criar repositório privado do núcleo da empresa",
+          "area": "Infraestrutura",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-002",
+          "titulo": "Criar repositório público do painel de acompanhamento",
+          "area": "Infraestrutura",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-003",
+          "titulo": "Definir formato do backlog diário",
+          "area": "Gestão",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-004",
+          "titulo": "Automatizar publicação do backlog no painel",
+          "area": "DevOps",
+          "status": "em andamento"
+        },
+        {
+          "id": "VTX-005",
+          "titulo": "Criar pasta de organização no Google Drive",
+          "area": "Organização",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-006",
+          "titulo": "Pesquisar papéis de agentes da empresa",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-007",
+          "titulo": "Definir roadmap da base de conhecimento",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-008",
+          "titulo": "Aprovar proposta de papéis de agentes",
+          "area": "Organização",
+          "status": "a fazer"
+        }
+      ]
+    }
+  ]
+}

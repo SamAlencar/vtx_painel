@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Painel VTX — Acompanhamento</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>VTX <span>· Painel de acompanhamento</span></h1>
+      <p class="sub">Empresa de TI operada por agentes de IA</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="cards" id="resumo"></section>
+    <section>
+      <div class="progress-label"><span>Progresso geral</span><strong id="pct">0%</strong></div>
+      <div class="progress"><div id="bar"></div></div>
+    </section>
+    <section class="filtros">
+      <label>Área <select id="f-area"><option value="">Todas</option></select></label>
+      <label>Status <select id="f-status">
+        <option value="">Todos</option><option>a fazer</option><option>em andamento</option><option>concluído</option>
+      </select></label>
+    </section>
+    <section id="dias"></section>
+    <p class="rodape" id="gerado"></p>
+  </main>
+  <script src="assets/app.js"></script>
+</body>
+</html>

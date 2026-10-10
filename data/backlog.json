@@ -1,5 +1,464 @@
 {
-  "gerado_em": "2026-10-10T12:53:00+00:00",
+  "gerado_em": "2026-10-10T12:58:28+00:00",
+  "projeto": {
+    "nome": "Criação da base de conhecimento e documentação de diretrizes",
+    "fases": [
+      {
+        "id": "F0",
+        "nome": "Fundação"
+      },
+      {
+        "id": "F1",
+        "nome": "Processo e operação de agentes"
+      },
+      {
+        "id": "F2",
+        "nome": "Engenharia de software"
+      },
+      {
+        "id": "F3",
+        "nome": "Segurança e operação"
+      },
+      {
+        "id": "F4",
+        "nome": "Tecnologia e plataformas"
+      },
+      {
+        "id": "F5",
+        "nome": "Gestão e conformidade"
+      },
+      {
+        "id": "F6",
+        "nome": "Templates de artefatos"
+      },
+      {
+        "id": "F7",
+        "nome": "Diretrizes por papel"
+      },
+      {
+        "id": "F8",
+        "nome": "Consolidação e validação"
+      }
+    ],
+    "tarefas": [
+      {
+        "id": "VTX-001",
+        "titulo": "Criar repositório privado do núcleo da empresa",
+        "fase": "F0",
+        "area": "Infraestrutura",
+        "prioridade": 1,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-002",
+        "titulo": "Criar repositório público do painel de acompanhamento",
+        "fase": "F0",
+        "area": "Infraestrutura",
+        "prioridade": 2,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-003",
+        "titulo": "Definir formato do backlog diário",
+        "fase": "F0",
+        "area": "Gestão",
+        "prioridade": 3,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-004",
+        "titulo": "Automatizar publicação do backlog no painel",
+        "fase": "F0",
+        "area": "DevOps",
+        "prioridade": 4,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-005",
+        "titulo": "Criar pasta de organização no Google Drive",
+        "fase": "F0",
+        "area": "Organização",
+        "prioridade": 5,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-006",
+        "titulo": "Pesquisar papéis de agentes da empresa",
+        "fase": "F0",
+        "area": "Base de Conhecimento",
+        "prioridade": 6,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-007",
+        "titulo": "Definir roadmap da base de conhecimento",
+        "fase": "F0",
+        "area": "Base de Conhecimento",
+        "prioridade": 7,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-008",
+        "titulo": "Aprovar proposta de papéis de agentes",
+        "fase": "F0",
+        "area": "Organização",
+        "prioridade": 8,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-009",
+        "titulo": "Definir agentes do núcleo da empresa",
+        "fase": "F0",
+        "area": "Organização",
+        "prioridade": 9,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-010",
+        "titulo": "Fluxo de trabalho entre agentes (SOP)",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 10,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-011",
+        "titulo": "Engenharia de requisitos",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 11,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-012",
+        "titulo": "Scrum e Kanban adaptados a agentes",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 12,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-013",
+        "titulo": "Operação de agentes: prompts, contexto e memória",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 13,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-014",
+        "titulo": "Governança e aprovações (humano no circuito)",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 14,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-015",
+        "titulo": "Arquitetura de software (estilos, C4, ADRs)",
+        "fase": "F2",
+        "area": "Base de Conhecimento",
+        "prioridade": 15,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-016",
+        "titulo": "Padrões de projeto e DDD",
+        "fase": "F2",
+        "area": "Base de Conhecimento",
+        "prioridade": 16,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-017",
+        "titulo": "Padrões de código, Clean Code e code review",
+        "fase": "F2",
+        "area": "Base de Conhecimento",
+        "prioridade": 17,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-018",
+        "titulo": "Estratégia de testes e qualidade",
+        "fase": "F2",
+        "area": "Base de Conhecimento",
+        "prioridade": 18,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-019",
+        "titulo": "Git e CI/CD",
+        "fase": "F2",
+        "area": "Base de Conhecimento",
+        "prioridade": 19,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-020",
+        "titulo": "Segurança no desenvolvimento (OWASP, SSDF)",
+        "fase": "F3",
+        "area": "Base de Conhecimento",
+        "prioridade": 20,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-021",
+        "titulo": "DevOps e SRE (IaC, SLOs, incidentes)",
+        "fase": "F3",
+        "area": "Base de Conhecimento",
+        "prioridade": 21,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-022",
+        "titulo": "Observabilidade (logs, métricas, traces)",
+        "fase": "F3",
+        "area": "Base de Conhecimento",
+        "prioridade": 22,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-023",
+        "titulo": "Stack de referência da VTX",
+        "fase": "F4",
+        "area": "Base de Conhecimento",
+        "prioridade": 23,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-024",
+        "titulo": "Design de APIs",
+        "fase": "F4",
+        "area": "Base de Conhecimento",
+        "prioridade": 24,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-025",
+        "titulo": "Modelagem de dados e bancos de dados",
+        "fase": "F4",
+        "area": "Base de Conhecimento",
+        "prioridade": 25,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-026",
+        "titulo": "Desenvolvimento frontend web",
+        "fase": "F4",
+        "area": "Base de Conhecimento",
+        "prioridade": 26,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-027",
+        "titulo": "Desenvolvimento mobile",
+        "fase": "F4",
+        "area": "Base de Conhecimento",
+        "prioridade": 27,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-028",
+        "titulo": "UX/UI e acessibilidade",
+        "fase": "F4",
+        "area": "Base de Conhecimento",
+        "prioridade": 28,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-029",
+        "titulo": "Gestão de projetos, riscos e comunicação com cliente",
+        "fase": "F5",
+        "area": "Base de Conhecimento",
+        "prioridade": 29,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-030",
+        "titulo": "Estimativas e planejamento",
+        "fase": "F5",
+        "area": "Base de Conhecimento",
+        "prioridade": 30,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-031",
+        "titulo": "LGPD e compliance",
+        "fase": "F5",
+        "area": "Base de Conhecimento",
+        "prioridade": 31,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-032",
+        "titulo": "Documentação técnica (docs-as-code)",
+        "fase": "F5",
+        "area": "Base de Conhecimento",
+        "prioridade": 32,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-033",
+        "titulo": "Template de PRD",
+        "fase": "F6",
+        "area": "Templates",
+        "prioridade": 33,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-034",
+        "titulo": "Template de história de usuário e critérios de aceite",
+        "fase": "F6",
+        "area": "Templates",
+        "prioridade": 34,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-035",
+        "titulo": "Template de ADR",
+        "fase": "F6",
+        "area": "Templates",
+        "prioridade": 35,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-036",
+        "titulo": "Template de plano e relatório de testes",
+        "fase": "F6",
+        "area": "Templates",
+        "prioridade": 36,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-037",
+        "titulo": "Template de runbook e postmortem",
+        "fase": "F6",
+        "area": "Templates",
+        "prioridade": 37,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-038",
+        "titulo": "Template de relatório diário e de sprint",
+        "fase": "F6",
+        "area": "Templates",
+        "prioridade": 38,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-039",
+        "titulo": "Diretrizes do agente Orquestrador",
+        "fase": "F7",
+        "area": "Diretrizes",
+        "prioridade": 39,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-040",
+        "titulo": "Diretrizes do agente Produto",
+        "fase": "F7",
+        "area": "Diretrizes",
+        "prioridade": 40,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-041",
+        "titulo": "Diretrizes do agente Arquiteto",
+        "fase": "F7",
+        "area": "Diretrizes",
+        "prioridade": 41,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-042",
+        "titulo": "Diretrizes do agente Dev Backend",
+        "fase": "F7",
+        "area": "Diretrizes",
+        "prioridade": 42,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-043",
+        "titulo": "Diretrizes do agente Dev Frontend/Mobile",
+        "fase": "F7",
+        "area": "Diretrizes",
+        "prioridade": 43,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-044",
+        "titulo": "Diretrizes do agente QA",
+        "fase": "F7",
+        "area": "Diretrizes",
+        "prioridade": 44,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-045",
+        "titulo": "Diretrizes do agente DevOps/SRE",
+        "fase": "F7",
+        "area": "Diretrizes",
+        "prioridade": 45,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-046",
+        "titulo": "Diretrizes dos especialistas sob demanda",
+        "fase": "F7",
+        "area": "Diretrizes",
+        "prioridade": 46,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-047",
+        "titulo": "Glossário técnico",
+        "fase": "F8",
+        "area": "Base de Conhecimento",
+        "prioridade": 47,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-048",
+        "titulo": "Revisão geral da base (consistência, links, fontes)",
+        "fase": "F8",
+        "area": "Qualidade",
+        "prioridade": 48,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-049",
+        "titulo": "Índice final e guia de navegação para agentes",
+        "fase": "F8",
+        "area": "Base de Conhecimento",
+        "prioridade": 49,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-050",
+        "titulo": "Projeto piloto: definição e PRD",
+        "fase": "F8",
+        "area": "Validação",
+        "prioridade": 50,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-051",
+        "titulo": "Projeto piloto: execução do fluxo completo",
+        "fase": "F8",
+        "area": "Validação",
+        "prioridade": 51,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-052",
+        "titulo": "Projeto piloto: retrospectiva e ajustes na base",
+        "fase": "F8",
+        "area": "Validação",
+        "prioridade": 52,
+        "status": "a fazer"
+      }
+    ]
+  },
   "dias": [
     {
       "data": "2026-10-10",

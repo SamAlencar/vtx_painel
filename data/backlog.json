@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T14:05:17+00:00",
+  "gerado_em": "2026-10-10T17:30:53+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -123,7 +123,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 10,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-066",
@@ -683,9 +683,9 @@
         },
         {
           "id": "VTX-010",
-          "titulo": "Pesquisar fluxo de trabalho entre agentes",
+          "titulo": "Fluxo de trabalho entre agentes (SOP)",
           "area": "Base de Conhecimento",
-          "status": "a fazer"
+          "status": "concluído"
         }
       ]
     }

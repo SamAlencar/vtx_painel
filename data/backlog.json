@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T17:30:53+00:00",
+  "gerado_em": "2026-10-11T11:41:49+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -131,7 +131,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 11,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-067",
@@ -624,6 +624,17 @@
     ]
   },
   "dias": [
+    {
+      "data": "2026-10-11",
+      "tarefas": [
+        {
+          "id": "VTX-066",
+          "titulo": "Guia de classificação e triagem de projetos (inclui híbridos)",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        }
+      ]
+    },
     {
       "data": "2026-10-10",
       "tarefas": [

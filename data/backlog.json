@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-12T18:35:31+00:00",
+  "gerado_em": "2026-10-13T11:56:57+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -147,7 +147,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 13,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-069",
@@ -624,6 +624,17 @@
     ]
   },
   "dias": [
+    {
+      "data": "2026-10-13",
+      "tarefas": [
+        {
+          "id": "VTX-068",
+          "titulo": "Fluxo de projeto: app mobile",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        }
+      ]
+    },
     {
       "data": "2026-10-12",
       "tarefas": [

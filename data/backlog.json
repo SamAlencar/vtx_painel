@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-15T13:56:46+00:00",
+  "gerado_em": "2026-10-15T13:59:28+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -619,6 +619,30 @@
         "fase": "F8",
         "area": "Validação",
         "prioridade": 72,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-073",
+        "titulo": "Validação automática do backlog no CI (ids, campos, status, dependências)",
+        "fase": "F8",
+        "area": "Qualidade",
+        "prioridade": 73,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-074",
+        "titulo": "Verificação automática de links e fontes da base de conhecimento",
+        "fase": "F8",
+        "area": "Qualidade",
+        "prioridade": 74,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-075",
+        "titulo": "ROADMAP gerado com status efetivo (só tarefas pendentes)",
+        "fase": "F8",
+        "area": "Gestão",
+        "prioridade": 75,
         "status": "a fazer"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-16T20:22:08+00:00",
+  "gerado_em": "2026-10-16T21:32:09+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -172,6 +172,14 @@
       {
         "id": "VTX-071",
         "titulo": "Fluxo de projeto: manutenção e evolução de sistema existente",
+        "fase": "F1",
+        "area": "Base de Conhecimento",
+        "prioridade": 16,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-084",
+        "titulo": "Fluxo de entrevista com o cliente (descoberta)",
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 16,
@@ -722,6 +730,12 @@
         {
           "id": "VTX-071",
           "titulo": "Fluxo de projeto: manutenção e evolução de sistema existente",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-084",
+          "titulo": "Fluxo de entrevista com o cliente (descoberta)",
           "area": "Base de Conhecimento",
           "status": "concluído"
         }

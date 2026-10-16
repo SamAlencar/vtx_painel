@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-16T13:44:23+00:00",
+  "gerado_em": "2026-10-16T20:22:08+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -42,6 +42,10 @@
       {
         "id": "F8",
         "nome": "Consolidação e validação"
+      },
+      {
+        "id": "F10",
+        "nome": "Arsenal de scripts e papéis administrativos"
       }
     ],
     "tarefas": [
@@ -643,6 +647,70 @@
         "fase": "F8",
         "area": "Gestão",
         "prioridade": 75,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-076",
+        "titulo": "Inventário de tarefas recorrentes de desenvolvimento para o arsenal de scripts",
+        "fase": "F10",
+        "area": "Automação",
+        "prioridade": 76,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-077",
+        "titulo": "Script de estrutura inicial de projeto por tipo",
+        "fase": "F10",
+        "area": "Automação",
+        "prioridade": 77,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-078",
+        "titulo": "Script de checklist automatizado de revisão de código e qualidade",
+        "fase": "F10",
+        "area": "Automação",
+        "prioridade": 78,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-079",
+        "titulo": "Script de verificações de segurança (dependências e segredos)",
+        "fase": "F10",
+        "area": "Automação",
+        "prioridade": 79,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-080",
+        "titulo": "Script de verificação de prontidão para deploy",
+        "fase": "F10",
+        "area": "Automação",
+        "prioridade": 80,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-081",
+        "titulo": "Skills: receitas curtas que usam o arsenal de scripts",
+        "fase": "F10",
+        "area": "Integração Cursor",
+        "prioridade": 81,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-082",
+        "titulo": "Adotar o formato-fonte de agentes e os exportadores compartilhados",
+        "fase": "F10",
+        "area": "Integração Cursor",
+        "prioridade": 82,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-083",
+        "titulo": "Papéis administrativos para software house (comercial, financeiro, jurídico e LGPD)",
+        "fase": "F10",
+        "area": "Papéis",
+        "prioridade": 83,
         "status": "a fazer"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-16T21:32:09+00:00",
+  "gerado_em": "2026-10-17T11:48:26+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -191,7 +191,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 17,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-011",
@@ -724,6 +724,17 @@
     ]
   },
   "dias": [
+    {
+      "data": "2026-10-17",
+      "tarefas": [
+        {
+          "id": "VTX-072",
+          "titulo": "Fluxo de projeto: MVP / prova de conceito",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        }
+      ]
+    },
     {
       "data": "2026-10-16",
       "tarefas": [

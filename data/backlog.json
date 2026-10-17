@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T12:41:15+00:00",
+  "gerado_em": "2026-10-17T12:54:07+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -38,6 +38,10 @@
       {
         "id": "F9",
         "nome": "Integração com o Cursor e operação"
+      },
+      {
+        "id": "F11",
+        "nome": "Plataforma de acompanhamento (projeto interno)"
       },
       {
         "id": "F8",
@@ -586,11 +590,115 @@
         "status": "a fazer"
       },
       {
+        "id": "VTX-085",
+        "titulo": "Planejamento da plataforma de acompanhamento",
+        "fase": "F11",
+        "area": "Planejamento",
+        "prioridade": 67,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-086",
+        "titulo": "Plataforma: PRD do MVP, hipóteses e critérios de sucesso",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 68,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-087",
+        "titulo": "Formatos de registro: eventos, handoffs, decisões e custos",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 69,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-088",
+        "titulo": "Formato da fila de aprovações do Samuel",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 70,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-089",
+        "titulo": "Gerador de dados da plataforma (JSON privado único)",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 71,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-090",
+        "titulo": "Painel privado: portfólio, fases e progresso",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 72,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-091",
+        "titulo": "Painel privado: atividade dos agentes e handoffs",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 73,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-092",
+        "titulo": "Painel privado: fila de aprovações e registro de decisões",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 74,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-093",
+        "titulo": "Painel privado: métricas, custos e alertas no resumo diário",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 75,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-094",
+        "titulo": "Plataforma: uso real por uma semana e decisão continuar ou pivotar",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 76,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-095",
+        "titulo": "Plataforma: ADR da interface web com acesso restrito",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 77,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-096",
+        "titulo": "Plataforma: interface web interativa sobre o mesmo JSON",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 78,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-097",
+        "titulo": "Plataforma: incluir projetos de cliente e outros repositórios",
+        "fase": "F11",
+        "area": "Plataforma interna",
+        "prioridade": 79,
+        "status": "a fazer"
+      },
+      {
         "id": "VTX-047",
         "titulo": "Glossário técnico",
         "fase": "F8",
         "area": "Base de Conhecimento",
-        "prioridade": 67,
+        "prioridade": 80,
         "status": "a fazer"
       },
       {
@@ -598,7 +706,7 @@
         "titulo": "Revisão geral da base (consistência, links, fontes)",
         "fase": "F8",
         "area": "Qualidade",
-        "prioridade": 68,
+        "prioridade": 81,
         "status": "a fazer"
       },
       {
@@ -606,7 +714,7 @@
         "titulo": "Índice final e guia de navegação para agentes",
         "fase": "F8",
         "area": "Base de Conhecimento",
-        "prioridade": 69,
+        "prioridade": 82,
         "status": "a fazer"
       },
       {
@@ -614,7 +722,7 @@
         "titulo": "Projeto piloto: definição, triagem do tipo e PRD",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 70,
+        "prioridade": 83,
         "status": "a fazer"
       },
       {
@@ -622,7 +730,7 @@
         "titulo": "Projeto piloto: execução do fluxo completo",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 71,
+        "prioridade": 84,
         "status": "a fazer"
       },
       {
@@ -630,7 +738,7 @@
         "titulo": "Projeto piloto: retrospectiva e ajustes na base",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 72,
+        "prioridade": 85,
         "status": "a fazer"
       },
       {
@@ -638,7 +746,7 @@
         "titulo": "Validação automática do backlog no CI (ids, campos, status, dependências)",
         "fase": "F8",
         "area": "Qualidade",
-        "prioridade": 73,
+        "prioridade": 86,
         "status": "a fazer"
       },
       {
@@ -646,7 +754,7 @@
         "titulo": "Verificação automática de links e fontes da base de conhecimento",
         "fase": "F8",
         "area": "Qualidade",
-        "prioridade": 74,
+        "prioridade": 87,
         "status": "a fazer"
       },
       {
@@ -654,7 +762,7 @@
         "titulo": "ROADMAP gerado com status efetivo (só tarefas pendentes)",
         "fase": "F8",
         "area": "Gestão",
-        "prioridade": 75,
+        "prioridade": 88,
         "status": "a fazer"
       },
       {
@@ -662,7 +770,7 @@
         "titulo": "Inventário de tarefas recorrentes de desenvolvimento para o arsenal de scripts",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 76,
+        "prioridade": 89,
         "status": "a fazer"
       },
       {
@@ -670,7 +778,7 @@
         "titulo": "Script de estrutura inicial de projeto por tipo",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 77,
+        "prioridade": 90,
         "status": "a fazer"
       },
       {
@@ -678,7 +786,7 @@
         "titulo": "Script de checklist automatizado de revisão de código e qualidade",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 78,
+        "prioridade": 91,
         "status": "a fazer"
       },
       {
@@ -686,7 +794,7 @@
         "titulo": "Script de verificações de segurança (dependências e segredos)",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 79,
+        "prioridade": 92,
         "status": "a fazer"
       },
       {
@@ -694,7 +802,7 @@
         "titulo": "Script de verificação de prontidão para deploy",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 80,
+        "prioridade": 93,
         "status": "a fazer"
       },
       {
@@ -702,7 +810,7 @@
         "titulo": "Skills: receitas curtas que usam o arsenal de scripts",
         "fase": "F10",
         "area": "Integração Cursor",
-        "prioridade": 81,
+        "prioridade": 94,
         "status": "a fazer"
       },
       {
@@ -710,7 +818,7 @@
         "titulo": "Adotar o formato-fonte de agentes e os exportadores compartilhados",
         "fase": "F10",
         "area": "Integração Cursor",
-        "prioridade": 82,
+        "prioridade": 95,
         "status": "a fazer"
       },
       {
@@ -718,7 +826,7 @@
         "titulo": "Papéis administrativos para software house (comercial, financeiro, jurídico e LGPD)",
         "fase": "F10",
         "area": "Papéis",
-        "prioridade": 83,
+        "prioridade": 96,
         "status": "a fazer"
       }
     ]
@@ -731,6 +839,12 @@
           "id": "VTX-072",
           "titulo": "Fluxo de projeto: MVP / prova de conceito",
           "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-085",
+          "titulo": "Planejamento da plataforma de acompanhamento",
+          "area": "Planejamento",
           "status": "concluído"
         }
       ]

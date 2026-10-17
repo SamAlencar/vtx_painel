@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T13:08:03+00:00",
+  "gerado_em": "2026-10-17T13:47:59+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -474,11 +474,99 @@
         "status": "a fazer"
       },
       {
+        "id": "VTX-119",
+        "titulo": "Bibliotecas e recursos para agentes: processo e registro",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 52,
+        "status": "concluído"
+      },
+      {
+        "id": "VTX-120",
+        "titulo": "Pesquisa de recursos: frontend, UI e design",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 53,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-121",
+        "titulo": "Pesquisa de recursos: backend e APIs",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 54,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-122",
+        "titulo": "Pesquisa de recursos: testes e QA",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 55,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-123",
+        "titulo": "Pesquisa de recursos: segurança e cadeia de suprimentos",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 56,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-124",
+        "titulo": "Pesquisa de recursos: documentação",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 57,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-125",
+        "titulo": "Pesquisa de recursos: skills de agentes e regras do Cursor",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 58,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-126",
+        "titulo": "Pesquisa de recursos: servidores MCP",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 59,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-127",
+        "titulo": "Piloto do impeccable em uma tela de teste (fluxo frontend)",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 60,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-128",
+        "titulo": "Integrar o registro de recursos às definições dos agentes e aos fluxos",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 61,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-129",
+        "titulo": "Varredura periódica de recursos na manutenção quinzenal e revisão trimestral",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 62,
+        "status": "a fazer"
+      },
+      {
         "id": "VTX-029",
         "titulo": "Gestão de projetos, riscos e comunicação com cliente",
         "fase": "F5",
         "area": "Base de Conhecimento",
-        "prioridade": 52,
+        "prioridade": 63,
         "status": "a fazer"
       },
       {
@@ -486,7 +574,7 @@
         "titulo": "Estimativas e planejamento",
         "fase": "F5",
         "area": "Base de Conhecimento",
-        "prioridade": 53,
+        "prioridade": 64,
         "status": "a fazer"
       },
       {
@@ -494,7 +582,7 @@
         "titulo": "LGPD e compliance",
         "fase": "F5",
         "area": "Base de Conhecimento",
-        "prioridade": 54,
+        "prioridade": 65,
         "status": "a fazer"
       },
       {
@@ -502,7 +590,7 @@
         "titulo": "Documentação técnica (docs-as-code)",
         "fase": "F5",
         "area": "Base de Conhecimento",
-        "prioridade": 55,
+        "prioridade": 66,
         "status": "a fazer"
       },
       {
@@ -510,7 +598,7 @@
         "titulo": "Template de PRD",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 56,
+        "prioridade": 67,
         "status": "a fazer"
       },
       {
@@ -518,7 +606,7 @@
         "titulo": "Template de história de usuário e critérios de aceite",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 57,
+        "prioridade": 68,
         "status": "a fazer"
       },
       {
@@ -526,7 +614,7 @@
         "titulo": "Template de ADR",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 58,
+        "prioridade": 69,
         "status": "a fazer"
       },
       {
@@ -534,7 +622,7 @@
         "titulo": "Template de plano e relatório de testes",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 59,
+        "prioridade": 70,
         "status": "a fazer"
       },
       {
@@ -542,7 +630,7 @@
         "titulo": "Template de runbook e postmortem",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 60,
+        "prioridade": 71,
         "status": "a fazer"
       },
       {
@@ -550,7 +638,7 @@
         "titulo": "Template de relatório diário e de sprint",
         "fase": "F6",
         "area": "Templates",
-        "prioridade": 61,
+        "prioridade": 72,
         "status": "a fazer"
       },
       {
@@ -558,7 +646,7 @@
         "titulo": "Diretrizes do agente Orquestrador",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 62,
+        "prioridade": 73,
         "status": "a fazer"
       },
       {
@@ -566,7 +654,7 @@
         "titulo": "Diretrizes do agente Produto",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 63,
+        "prioridade": 74,
         "status": "a fazer"
       },
       {
@@ -574,7 +662,7 @@
         "titulo": "Diretrizes do agente Arquiteto",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 64,
+        "prioridade": 75,
         "status": "a fazer"
       },
       {
@@ -582,7 +670,7 @@
         "titulo": "Diretrizes do agente Dev Backend",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 65,
+        "prioridade": 76,
         "status": "a fazer"
       },
       {
@@ -590,7 +678,7 @@
         "titulo": "Diretrizes do agente Dev Frontend/Mobile",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 66,
+        "prioridade": 77,
         "status": "a fazer"
       },
       {
@@ -598,7 +686,7 @@
         "titulo": "Diretrizes do agente QA",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 67,
+        "prioridade": 78,
         "status": "a fazer"
       },
       {
@@ -606,7 +694,7 @@
         "titulo": "Diretrizes do agente DevOps/SRE",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 68,
+        "prioridade": 79,
         "status": "a fazer"
       },
       {
@@ -614,7 +702,7 @@
         "titulo": "Diretrizes dos especialistas sob demanda",
         "fase": "F7",
         "area": "Diretrizes",
-        "prioridade": 69,
+        "prioridade": 80,
         "status": "a fazer"
       },
       {
@@ -622,7 +710,7 @@
         "titulo": "AGENTS.md raiz com diretrizes gerais dos agentes",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 70,
+        "prioridade": 81,
         "status": "a fazer"
       },
       {
@@ -630,7 +718,7 @@
         "titulo": "Regra sempre ativa: fluxo entre papéis, DoD e aprovações",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 71,
+        "prioridade": 82,
         "status": "a fazer"
       },
       {
@@ -638,7 +726,7 @@
         "titulo": "Regras por papel: Orquestrador, Produto e Arquiteto",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 72,
+        "prioridade": 83,
         "status": "a fazer"
       },
       {
@@ -646,7 +734,7 @@
         "titulo": "Regras por papel: Devs, QA e DevOps/SRE",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 73,
+        "prioridade": 84,
         "status": "a fazer"
       },
       {
@@ -654,7 +742,7 @@
         "titulo": "Regras por assunto com globs: testes e APIs",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 74,
+        "prioridade": 85,
         "status": "a fazer"
       },
       {
@@ -662,7 +750,7 @@
         "titulo": "Regras por assunto com globs: frontend/mobile e segurança",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 75,
+        "prioridade": 86,
         "status": "a fazer"
       },
       {
@@ -670,7 +758,7 @@
         "titulo": "Estratégia de consulta sob demanda e índice para agentes",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 76,
+        "prioridade": 87,
         "status": "a fazer"
       },
       {
@@ -678,7 +766,7 @@
         "titulo": "Template de repositório de projeto",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 77,
+        "prioridade": 88,
         "status": "a fazer"
       },
       {
@@ -686,7 +774,7 @@
         "titulo": "Sincronização de regras e script de bootstrap de projetos",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 78,
+        "prioridade": 89,
         "status": "a fazer"
       },
       {
@@ -694,7 +782,7 @@
         "titulo": "Ambiente dos agentes de nuvem (environment.json, segredos, permissões)",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 79,
+        "prioridade": 90,
         "status": "a fazer"
       },
       {
@@ -702,7 +790,7 @@
         "titulo": "Orquestração com issues, PRs e agentes de nuvem por papel e tipo de projeto",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 80,
+        "prioridade": 91,
         "status": "a fazer"
       },
       {
@@ -710,7 +798,7 @@
         "titulo": "Pontos de aprovação do Samuel (branch protegida, revisões, release)",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 81,
+        "prioridade": 92,
         "status": "a fazer"
       },
       {
@@ -718,7 +806,7 @@
         "titulo": "Teste de validação da integração com o Cursor",
         "fase": "F9",
         "area": "Integração Cursor",
-        "prioridade": 82,
+        "prioridade": 93,
         "status": "a fazer"
       },
       {
@@ -726,7 +814,7 @@
         "titulo": "Planejamento da plataforma de acompanhamento",
         "fase": "F11",
         "area": "Planejamento",
-        "prioridade": 83,
+        "prioridade": 94,
         "status": "concluído"
       },
       {
@@ -734,7 +822,7 @@
         "titulo": "Plataforma: revisão do plano (ferramentas, conexões, Cursor primeiro)",
         "fase": "F11",
         "area": "Planejamento",
-        "prioridade": 84,
+        "prioridade": 95,
         "status": "concluído"
       },
       {
@@ -742,7 +830,7 @@
         "titulo": "Plataforma: PRD do MVP, hipóteses e critérios de sucesso",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 85,
+        "prioridade": 96,
         "status": "a fazer"
       },
       {
@@ -750,7 +838,7 @@
         "titulo": "Formatos de registro: eventos, handoffs, decisões e custos",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 86,
+        "prioridade": 97,
         "status": "a fazer"
       },
       {
@@ -758,7 +846,7 @@
         "titulo": "Formato da fila de aprovações do Samuel",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 87,
+        "prioridade": 98,
         "status": "a fazer"
       },
       {
@@ -766,7 +854,7 @@
         "titulo": "Esquema do manifesto de conexões por projeto",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 88,
+        "prioridade": 99,
         "status": "a fazer"
       },
       {
@@ -774,7 +862,7 @@
         "titulo": "Gerador de dados da plataforma (JSON privado único)",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 89,
+        "prioridade": 100,
         "status": "a fazer"
       },
       {
@@ -782,7 +870,7 @@
         "titulo": "Verificador de status das conexões (somente leitura)",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 90,
+        "prioridade": 101,
         "status": "a fazer"
       },
       {
@@ -790,7 +878,7 @@
         "titulo": "Painel Markdown (semana 1): portfólio, fases e progresso",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 91,
+        "prioridade": 102,
         "status": "a fazer"
       },
       {
@@ -798,7 +886,7 @@
         "titulo": "Painel Markdown: conexões por projeto e alertas de conexão",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 92,
+        "prioridade": 103,
         "status": "a fazer"
       },
       {
@@ -806,7 +894,7 @@
         "titulo": "Plataforma: ADR da interface web com acesso restrito",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 93,
+        "prioridade": 104,
         "status": "a fazer"
       },
       {
@@ -814,7 +902,7 @@
         "titulo": "Interface web: estrutura, login restrito e portfólio",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 94,
+        "prioridade": 105,
         "status": "a fazer"
       },
       {
@@ -822,7 +910,7 @@
         "titulo": "Interface web: atividade dos agentes e handoffs",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 95,
+        "prioridade": 106,
         "status": "a fazer"
       },
       {
@@ -830,7 +918,7 @@
         "titulo": "Interface web: fila de aprovações e registro de decisões",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 96,
+        "prioridade": 107,
         "status": "a fazer"
       },
       {
@@ -838,7 +926,7 @@
         "titulo": "Interface web: ferramentas e conexões por projeto",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 97,
+        "prioridade": 108,
         "status": "a fazer"
       },
       {
@@ -846,7 +934,7 @@
         "titulo": "Interface web: métricas, custos e alertas",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 98,
+        "prioridade": 109,
         "status": "a fazer"
       },
       {
@@ -854,7 +942,7 @@
         "titulo": "Plataforma: uso real por uma semana e decisão continuar ou pivotar",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 99,
+        "prioridade": 110,
         "status": "a fazer"
       },
       {
@@ -862,7 +950,7 @@
         "titulo": "Plataforma: incluir projetos de cliente e outros repositórios",
         "fase": "F11",
         "area": "Plataforma interna",
-        "prioridade": 100,
+        "prioridade": 111,
         "status": "a fazer"
       },
       {
@@ -870,7 +958,7 @@
         "titulo": "Glossário técnico",
         "fase": "F8",
         "area": "Base de Conhecimento",
-        "prioridade": 101,
+        "prioridade": 112,
         "status": "a fazer"
       },
       {
@@ -878,7 +966,7 @@
         "titulo": "Revisão geral da base (consistência, links, fontes)",
         "fase": "F8",
         "area": "Qualidade",
-        "prioridade": 102,
+        "prioridade": 113,
         "status": "a fazer"
       },
       {
@@ -886,7 +974,7 @@
         "titulo": "Índice final e guia de navegação para agentes",
         "fase": "F8",
         "area": "Base de Conhecimento",
-        "prioridade": 103,
+        "prioridade": 114,
         "status": "a fazer"
       },
       {
@@ -894,7 +982,7 @@
         "titulo": "Projeto piloto: definição, triagem do tipo e PRD",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 104,
+        "prioridade": 115,
         "status": "a fazer"
       },
       {
@@ -902,7 +990,7 @@
         "titulo": "Projeto piloto: execução do fluxo completo",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 105,
+        "prioridade": 116,
         "status": "a fazer"
       },
       {
@@ -910,7 +998,7 @@
         "titulo": "Projeto piloto: retrospectiva e ajustes na base",
         "fase": "F8",
         "area": "Validação",
-        "prioridade": 106,
+        "prioridade": 117,
         "status": "a fazer"
       },
       {
@@ -918,7 +1006,7 @@
         "titulo": "Validação automática do backlog no CI (ids, campos, status, dependências)",
         "fase": "F8",
         "area": "Qualidade",
-        "prioridade": 107,
+        "prioridade": 118,
         "status": "a fazer"
       },
       {
@@ -926,7 +1014,7 @@
         "titulo": "Verificação automática de links e fontes da base de conhecimento",
         "fase": "F8",
         "area": "Qualidade",
-        "prioridade": 108,
+        "prioridade": 119,
         "status": "a fazer"
       },
       {
@@ -934,7 +1022,7 @@
         "titulo": "ROADMAP gerado com status efetivo (só tarefas pendentes)",
         "fase": "F8",
         "area": "Gestão",
-        "prioridade": 109,
+        "prioridade": 120,
         "status": "a fazer"
       },
       {
@@ -942,7 +1030,7 @@
         "titulo": "Inventário de tarefas recorrentes de desenvolvimento para o arsenal de scripts",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 110,
+        "prioridade": 121,
         "status": "a fazer"
       },
       {
@@ -950,7 +1038,7 @@
         "titulo": "Script de estrutura inicial de projeto por tipo",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 111,
+        "prioridade": 122,
         "status": "a fazer"
       },
       {
@@ -958,7 +1046,7 @@
         "titulo": "Script de checklist automatizado de revisão de código e qualidade",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 112,
+        "prioridade": 123,
         "status": "a fazer"
       },
       {
@@ -966,7 +1054,7 @@
         "titulo": "Script de verificações de segurança (dependências e segredos)",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 113,
+        "prioridade": 124,
         "status": "a fazer"
       },
       {
@@ -974,7 +1062,7 @@
         "titulo": "Script de verificação de prontidão para deploy",
         "fase": "F10",
         "area": "Automação",
-        "prioridade": 114,
+        "prioridade": 125,
         "status": "a fazer"
       },
       {
@@ -982,7 +1070,7 @@
         "titulo": "Skills: receitas curtas que usam o arsenal de scripts",
         "fase": "F10",
         "area": "Integração Cursor",
-        "prioridade": 115,
+        "prioridade": 126,
         "status": "a fazer"
       },
       {
@@ -990,7 +1078,7 @@
         "titulo": "Adotar o formato-fonte de agentes e os exportadores compartilhados",
         "fase": "F10",
         "area": "Integração Cursor",
-        "prioridade": 116,
+        "prioridade": 127,
         "status": "a fazer"
       },
       {
@@ -998,7 +1086,7 @@
         "titulo": "Papéis administrativos para software house (comercial, financeiro, jurídico e LGPD)",
         "fase": "F10",
         "area": "Papéis",
-        "prioridade": 117,
+        "prioridade": 128,
         "status": "a fazer"
       }
     ]
@@ -1029,6 +1117,12 @@
           "id": "VTX-114",
           "titulo": "Plataforma: revisão do plano (ferramentas, conexões, Cursor primeiro)",
           "area": "Planejamento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-119",
+          "titulo": "Bibliotecas e recursos para agentes: processo e registro",
+          "area": "Ferramentas",
           "status": "concluído"
         }
       ]

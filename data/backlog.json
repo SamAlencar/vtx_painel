@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T13:47:59+00:00",
+  "gerado_em": "2026-10-18T11:42:43+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -207,7 +207,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 18,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-012",
@@ -215,7 +215,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 19,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-013",
@@ -1092,6 +1092,23 @@
     ]
   },
   "dias": [
+    {
+      "data": "2026-10-18",
+      "tarefas": [
+        {
+          "id": "VTX-011",
+          "titulo": "Engenharia de requisitos",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-012",
+          "titulo": "Scrum e Kanban adaptados a agentes",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        }
+      ]
+    },
     {
       "data": "2026-10-17",
       "tarefas": [

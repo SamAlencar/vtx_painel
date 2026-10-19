@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T12:58:10+00:00",
+  "gerado_em": "2026-10-19T11:43:12+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -223,7 +223,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 20,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-014",
@@ -231,7 +231,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 21,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-015",
@@ -1092,6 +1092,23 @@
     ]
   },
   "dias": [
+    {
+      "data": "2026-10-19",
+      "tarefas": [
+        {
+          "id": "VTX-013",
+          "titulo": "Operação de agentes: prompts, contexto e memória",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-014",
+          "titulo": "Governança e aprovações (humano no circuito)",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        }
+      ]
+    },
     {
       "data": "2026-10-18",
       "tarefas": [

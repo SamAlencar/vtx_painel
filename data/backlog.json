@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-19T16:11:31+00:00",
+  "gerado_em": "2026-10-20T11:42:54+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -239,7 +239,7 @@
         "fase": "F2",
         "area": "Base de Conhecimento",
         "prioridade": 22,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-016",
@@ -247,7 +247,7 @@
         "fase": "F2",
         "area": "Base de Conhecimento",
         "prioridade": 23,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-017",
@@ -1092,6 +1092,23 @@
     ]
   },
   "dias": [
+    {
+      "data": "2026-10-20",
+      "tarefas": [
+        {
+          "id": "VTX-015",
+          "titulo": "Arquitetura de software (estilos, C4, ADRs)",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-016",
+          "titulo": "Padrões de projeto e DDD",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        }
+      ]
+    },
     {
       "data": "2026-10-19",
       "tarefas": [

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T20:46:25+00:00",
+  "gerado_em": "2026-10-21T20:57:11+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -604,6 +604,14 @@
       {
         "id": "VTX-136",
         "titulo": "Observação contínua de skills e revisão na manutenção quinzenal (adaptado do task-observer)",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 62,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-137",
+        "titulo": "Processo de melhoria do harness da VTX no Cursor (metodologia do Harness²)",
         "fase": "F12",
         "area": "Ferramentas",
         "prioridade": 62,

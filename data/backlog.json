@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T20:57:11+00:00",
+  "gerado_em": "2026-10-21T21:12:04+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -618,6 +618,14 @@
         "status": "a fazer"
       },
       {
+        "id": "VTX-140",
+        "titulo": "Skills do ECC que preenchem lacunas do stack VTX",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 62,
+        "status": "a fazer"
+      },
+      {
         "id": "VTX-029",
         "titulo": "Gestão de projetos, riscos e comunicação com cliente",
         "fase": "F5",
@@ -812,6 +820,22 @@
       {
         "id": "VTX-058",
         "titulo": "Regras por assunto com globs: frontend/mobile e segurança",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 86,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-138",
+        "titulo": "Regras comuns e por stack em .cursor/rules a partir do ECC",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 86,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-139",
+        "titulo": "Hooks do Cursor como guardrails locais (adaptados do ECC)",
         "fase": "F9",
         "area": "Integração Cursor",
         "prioridade": 86,

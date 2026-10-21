@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T18:29:17+00:00",
+  "gerado_em": "2026-10-21T19:08:06+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -764,6 +764,14 @@
       {
         "id": "VTX-056",
         "titulo": "Regras por papel: Devs, QA e DevOps/SRE",
+        "fase": "F9",
+        "area": "Integração Cursor",
+        "prioridade": 84,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-134",
+        "titulo": "Enriquecer papéis de agentes com o catálogo agency-agents",
         "fase": "F9",
         "area": "Integração Cursor",
         "prioridade": 84,

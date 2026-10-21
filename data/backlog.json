@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T19:08:06+00:00",
+  "gerado_em": "2026-10-21T19:26:16+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -588,6 +588,14 @@
       {
         "id": "VTX-133",
         "titulo": "Regras de economia de contexto em saídas de ferramentas e piloto local do Headroom",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 62,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-135",
+        "titulo": "Piloto local do Trail-code (graft map) como ferramenta do mapa de codebase",
         "fase": "F12",
         "area": "Ferramentas",
         "prioridade": 62,

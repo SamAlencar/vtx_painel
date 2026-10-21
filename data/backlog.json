@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-20T18:16:02+00:00",
+  "gerado_em": "2026-10-21T11:44:22+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -199,7 +199,7 @@
         "fase": "F1",
         "area": "Base de Conhecimento",
         "prioridade": 16,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-072",
@@ -263,7 +263,7 @@
         "fase": "F2",
         "area": "Base de Conhecimento",
         "prioridade": 24,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-018",
@@ -1100,6 +1100,23 @@
     ]
   },
   "dias": [
+    {
+      "data": "2026-10-21",
+      "tarefas": [
+        {
+          "id": "VTX-130",
+          "titulo": "Pesquisa de domínio e base de conhecimento do projeto do cliente",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-017",
+          "titulo": "Padrões de código, Clean Code e code review",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        }
+      ]
+    },
     {
       "data": "2026-10-20",
       "tarefas": [

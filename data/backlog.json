@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T21:12:04+00:00",
+  "gerado_em": "2026-10-22T01:22:45+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -394,6 +394,14 @@
         "status": "a fazer"
       },
       {
+        "id": "VTX-142",
+        "titulo": "Vídeos de divulgação com HyperFrames (render local)",
+        "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 40,
+        "status": "a fazer"
+      },
+      {
         "id": "VTX-103",
         "titulo": "Ferramenta: Appwrite",
         "fase": "F12",
@@ -549,6 +557,14 @@
         "id": "VTX-127",
         "titulo": "Piloto do impeccable em uma tela de teste (fluxo frontend)",
         "fase": "F12",
+        "area": "Ferramentas",
+        "prioridade": 60,
+        "status": "a fazer"
+      },
+      {
+        "id": "VTX-141",
+        "titulo": "Skill de diagramas editoriais (adaptada do diagram-design)",
+        "fase": "F10",
         "area": "Ferramentas",
         "prioridade": 60,
         "status": "a fazer"

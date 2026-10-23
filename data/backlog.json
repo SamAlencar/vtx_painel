@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-22T14:20:28+00:00",
+  "gerado_em": "2026-10-23T03:26:42+00:00",
   "projeto": {
     "nome": "Criação da base de conhecimento e documentação de diretrizes",
     "fases": [
@@ -271,7 +271,7 @@
         "fase": "F2",
         "area": "Base de Conhecimento",
         "prioridade": 25,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-019",
@@ -279,7 +279,7 @@
         "fase": "F2",
         "area": "Base de Conhecimento",
         "prioridade": 26,
-        "status": "a fazer"
+        "status": "concluído"
       },
       {
         "id": "VTX-020",
@@ -1196,6 +1196,23 @@
     ]
   },
   "dias": [
+    {
+      "data": "2026-10-22",
+      "tarefas": [
+        {
+          "id": "VTX-018",
+          "titulo": "Estratégia de testes e qualidade",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        },
+        {
+          "id": "VTX-019",
+          "titulo": "Git e CI/CD",
+          "area": "Base de Conhecimento",
+          "status": "concluído"
+        }
+      ]
+    },
     {
       "data": "2026-10-21",
       "tarefas": [
